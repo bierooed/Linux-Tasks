@@ -13,4 +13,18 @@ Implemented Complex class and add basic operations (+, -, \*, /).
 
 - Implemented linux cp command
 
-For c++ compiling instead of **gcc example.c** I used **gcc example.cpp -lstdc++**
+Since the с++ code, for a.out file generating instead of
+
+```c++
+gcc example.c
+```
+
+I used
+
+```c++
+gcc example.cpp -lstdc++
+```
+
+- mv implementing
+
+Couldn't solve
